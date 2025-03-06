@@ -1,8 +1,4 @@
 # CSCI3251_PuiwaiLOW
 
-This repo is for practicing GitHub flow.
-
-My name is LOW Pui Wai.
-My SID is 1155194427.
-
-This is the "feature" branch.
+Hello, I'm Esther
+My student number is 1155194427.
